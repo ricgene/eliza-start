@@ -2,8 +2,7 @@
   "name": "BlueJay808",
   "plugins": [],
   "clients": ["twitter"],
-  "modelProvider": "anthropic",
-  "model": "claude-3-5-sonnet",
+  "modelProvider": "openai",
   "settings": {
     "secrets": {},
     "voice": {
